@@ -1,1 +1,2 @@
-# Credit_Card_Financial_Analysis_Dashboard
+# Credit_Card_Financial_Dashboard
+Credit Card Transaction and Customer Dashboard using Power BI
